@@ -23,5 +23,3 @@ const Body = () => {
 }
 
 export default Body
-
-/// This is the clone of the e-marketplace
